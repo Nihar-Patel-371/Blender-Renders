@@ -1,2 +1,2 @@
 # Renders_Blender
-Render generated in blender by Nihar
+Renders generated in Blender by Nihar
