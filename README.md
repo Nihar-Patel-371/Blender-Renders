@@ -3,11 +3,9 @@
 Rendering Platform - Blender
 
 RAMP
+https://user-images.githubusercontent.com/76566519/210152691-ad56cdf6-0b8f-4eb6-a084-00ecae1f54eb.mp4
 
 
-https://user-images.githubusercontent.com/76566519/210152628-374a3286-dfbd-4336-afe2-72d220663774.mp4
-
-![ramp](https://user-images.githubusercontent.com/76566519/209767702-469a6e11-bf31-4f9d-9dbe-686e8e65b46e.png)
 
 SIMPLE BUILDING
 ![simple building](https://user-images.githubusercontent.com/76566519/209763907-50227d57-967d-46bd-9823-691108e54595.png)
